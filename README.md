@@ -4,7 +4,7 @@
 
 🎓 I am Amarabhilash, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/amarabhilash) quite recently and made a name for myself.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
@@ -91,13 +91,13 @@
 
 ## 📝 Top Blog Posts
 
--   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
+-   [Zero to Hero: Front End Developer Roadmap](https://dev.to/amarabhilash/front-end-developer-roadmap-zero-to-hero-4pkf)
+-   [Beautify Your GitHub Profile like a Pro](https://dev.to/amarabhilash/beautify-your-github-profile-like-a-pro-5093)
+-   [5 projects to master Front End Development](https://dev.to/amarabhilash/5-projects-to-master-front-end-development-57p)
+-   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/amarabhilash/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
+-   [5 Tips Every React Developer Should Know](https://dev.to/amarabhilash/5-tips-every-react-developer-should-know-1ghh)
 
-Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
+Want to read more? [Check out all the blogs](https://dev.to/amarabhilash)
 
 ## 📈 Stats
 
